@@ -1,0 +1,1 @@
+require("copyurl.setup").setup()
